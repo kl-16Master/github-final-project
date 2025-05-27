@@ -33,7 +33,7 @@ in response to any behavior that they deem inappropriate, threatening, offensive
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com].  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [bin843119@gmail.com].  
 All complaints will be reviewed and investigated promptly and fairly.
 
 ## Attribution
